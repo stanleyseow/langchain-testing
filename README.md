@@ -1,4 +1,5 @@
 # langchain-testing
 
-## node index.js what is the author name 
+## Run with question in the cli 
+node index.js what is the author name 
 
